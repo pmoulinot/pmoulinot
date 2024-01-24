@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="middle">🌱 Hello there, I'm Paul!</h1>
+<h3 align="middle">✨ Full Stack Junior Web Developer</h3>
 
-<!--
-**pmoulinot/pmoulinot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<p align="middle">- 🔭 Active developer since 2019.</p>
+<p align="middle">- 🎓 Bachelor's degree in Application Design and Development. (CDA)</p>
+<p align="middle">- 🔜 Master Manager in IS Architecture and Software Applications. (MAALSI)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<p align="middle">- 🏆 National e-Health Institute prize in 2023. (INeS)</p>
+
+</br>
+
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/pmoulinot/github-stats/output/generated/overview.svg"/>
+</p>

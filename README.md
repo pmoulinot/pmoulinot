@@ -1,5 +1,5 @@
 <h1 align="middle">🌱 Hello there, I'm Paul!</h1>
-<h3 align="middle">✨ Full Stack Junior Web Developer</h3>
+<h3 align="middle">✨ Mid-level Developer / Software Engineer II</h3>
 
 </br>
 

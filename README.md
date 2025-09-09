@@ -5,7 +5,7 @@
 
 <p align="middle">- 🔭 Active developer since 2019.</p>
 <p align="middle">- 🎓 Bachelor's degree in Application Design and Development. (CDA)</p>
-<p align="middle">- 🔜 Master Manager in IS Architecture and Software Applications. (MAALSI)</p>
+<p align="middle">- 🎓 Master Manager in IS Architecture and Software Applications. (MAALSI)</p>
 
 </br>
 
